@@ -54,7 +54,7 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/satyaswarup140/-Stonepedia.git
+    git clone https://github.com/satyaswarup140/Estavel.git
     ```
 
 2. Navigate to the project directory:
@@ -74,7 +74,7 @@ To run this project locally:
 
 5. Open your browser and navigate to:
     ```
-    http://localhost:3000
+    http://localhost:3004
     ```
 
 ---
