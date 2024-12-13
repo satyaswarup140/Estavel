@@ -1,0 +1,35 @@
+.features {
+    background-color: #0a0a0a;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+  .features-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .feature-item {
+    background-color: #1c1c1c;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+  }
+  
+  .feature-item:hover {
+    transform: scale(1.05);
+  }
+  
+  .feature-item img {
+    width: 50px;
+    margin-bottom: 15px;
+  }
+  
