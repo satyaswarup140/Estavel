@@ -1,5 +1,5 @@
 .testimonials-section {
-    background-color: #f9f9f9; /* Light background for contrast */
+    background-color: #f9f9f9; 
     padding: 40px 20px;
     text-align: center;
   }
@@ -28,7 +28,7 @@
   }
   
   .testimonial:hover {
-    transform: scale(1.05); /* Slight zoom on hover */
+    transform: scale(1.05); 
   }
   
   .testimonial p {
@@ -50,5 +50,5 @@
     height: 80px;
     border-radius: 50%;
     margin-bottom: 10px;
-    border: 2px solid #ff5722; /* Add a border to highlight the image */
+    border: 2px solid #ff5722; 
   }
