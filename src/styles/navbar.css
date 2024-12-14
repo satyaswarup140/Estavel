@@ -3,9 +3,9 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #f8f9fa; /* Light background color */
-    color: #333; /* Dark text color for contrast */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    background-color: #f8f9fa; 
+    color: #333; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
   }
   
   .logo {
@@ -14,7 +14,7 @@
   }
   
   .logo-image {
-    height: 50px; /* Adjust height as needed */
+    height: 50px; 
     width: auto;
   }
   
