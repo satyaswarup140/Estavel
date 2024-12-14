@@ -6,32 +6,32 @@ const Testimonials = () => {
     {
       text: "Stonepedia exceeded my expectations. The quality is unmatched!",
       name: "Alice Johnson",
-      image: "/images/testimonial-1.png", // Correct path
+      image: "/images/testimonial-1.png", 
     },
     {
       text: "Amazing service and a fantastic selection of stones.",
       name: "Mark Smith",
-      image: "/images/testimonial-2.png", // Correct path
+      image: "/images/testimonial-2.png",
     },
     {
       text: "Their team guided me through every step. Highly recommend!",
       name: "Sophia Lee",
-      image: "/images/testimonial-3.png", // Correct path
+      image: "/images/testimonial-3.png", 
     },
     {
       text: "I found the perfect stone for my project. Thanks, Stonepedia!",
       name: "David Brown",
-      image: "/images/testimonial-4.png", // Correct path
+      image: "/images/testimonial-4.png", 
     },
     {
       text: "Excellent customer service and a wide variety of choices.",
       name: "Emma White",
-      image: "/images/testimonial-5.png", // Correct path for new image
+      image: "/images/testimonial-5.png", 
     },
     {
       text: "The stones were exactly as described, and delivery was prompt.",
       name: "John Taylor",
-      image: "/images/testimonial-6.png", // Correct path for new image
+      image: "/images/testimonial-6.png", 
     },
   ];
 
