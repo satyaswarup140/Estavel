@@ -1,5 +1,5 @@
 import React from "react";
-import heroImage from "../assets/hero-bg.png"; // Import the image
+import heroImage from "../assets/hero-bg.png"; 
 import "../styles/HeroSection.css";
 
 const HeroSection = () => {
@@ -7,7 +7,7 @@ const HeroSection = () => {
     <section
       className="hero-section"
       style={{
-        backgroundImage: `url(${heroImage})`, // Use the imported image
+        backgroundImage: `url(${heroImage})`, 
       }}
     >
       <div className="hero-content">
